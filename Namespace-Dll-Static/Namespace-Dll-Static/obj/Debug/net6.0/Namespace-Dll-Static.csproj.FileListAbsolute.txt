@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\bin\Debug\net6.0\Namespace-Dll-Static.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\bin\Debug\net6.0\Namespace-Dll-Static.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\bin\Debug\net6.0\Namespace-Dll-Static.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\bin\Debug\net6.0\Namespace-Dll-Static.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\bin\Debug\net6.0\Namespace-Dll-Static.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\obj\Debug\net6.0\Namespace-Dll-Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\obj\Debug\net6.0\Namespace-Dll-Static.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\obj\Debug\net6.0\Namespace-Dll-Static.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\obj\Debug\net6.0\Namespace-Dll-Static.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\obj\Debug\net6.0\Namespace-Dll-Static.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\obj\Debug\net6.0\refint\Namespace-Dll-Static.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\obj\Debug\net6.0\Namespace-Dll-Static.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\obj\Debug\net6.0\Namespace-Dll-Static.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static\Namespace-Dll-Static\obj\Debug\net6.0\ref\Namespace-Dll-Static.dll

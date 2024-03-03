@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\bin\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\bin\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\bin\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\bin\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\bin\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\obj\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\obj\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\obj\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\obj\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\obj\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\obj\Debug\net6.0\refint\Namespace-Dll-Static-Extensions-Hometasks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\obj\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\obj\Debug\net6.0\Namespace-Dll-Static-Extensions-Hometasks.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Namespace-Dll-Static-Extensions-Hometasks\Namespace-Dll-Static-Extensions-Hometasks\obj\Debug\net6.0\ref\Namespace-Dll-Static-Extensions-Hometasks.dll
